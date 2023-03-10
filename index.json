@@ -5,6 +5,6 @@
    },
    "greenloan":{
       "uri": "https://loanappplus.com/",
-      "isWebView": false
+      "isWebView": true
    }
 }
