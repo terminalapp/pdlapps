@@ -1,8 +1,4 @@
 {
-   "loanunion":{
-      "uri": "https://loanappplus.com/",
-      "isWebView": false
-   },
    "greenloan":{
       "uri": "https://loanappplus.com/",
       "isWebView": false
