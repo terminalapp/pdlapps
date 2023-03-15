@@ -1,6 +1,6 @@
 {
    "loanunion":{
       "uri": "https://loanappplus.com/",
-      "isWebView": true
+      "isWebView": false
    }
 }
